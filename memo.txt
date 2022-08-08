@@ -1,9 +1,0 @@
-https://zenn.dev/chida/articles/51ba4ec06a0724
-https://zenn.dev/chida/articles/51ba4ec06a0724
-
-https://logical-studio.com/develop/development/docker/20211217-docker-react-formatter/
-https://qiita.com/Yuki-TU/items/fc9d66c64eef9a882260#2-dockerfile%E5%8F%8A%E3%81%B3docker-composeyml%E3%81%AE%E4%BD%9C%E6%88%90
-https://amateur-engineer.com/react-docker-compose/
-
-
-https://qiita.com/oouaioi/items/efe1064fc4618c3c4ed3
