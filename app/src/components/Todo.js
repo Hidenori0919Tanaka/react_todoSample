@@ -17,9 +17,9 @@ const Todo = () => {
       isCompleted: false,
     },
   ];
-
+  console.log("Hello %s", "todo");
   const [todos, setTodos] = useState(initialState);
-
+  console.table([[1, 2, 3], [2, 3, 4]]);
   return (
     <div>
       <h1>ToDo List</h1>
